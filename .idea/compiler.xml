@@ -9,7 +9,9 @@
         </processorPath>
         <module name="music-manager.model.test" />
         <module name="music-manager.app-service.test" />
+        <module name="music-manager.api-rest.test" />
         <module name="music-manager.rest-consumer.test" />
+        <module name="music-manager.api-rest.main" />
         <module name="music-manager.log-repository-adapter.test" />
         <module name="music-manager.app-service.main" />
         <module name="music-manager.rest-consumer.main" />
